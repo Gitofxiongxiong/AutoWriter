@@ -1,0 +1,459 @@
+{
+  "rows": 6,
+  "cols": 9,
+  "tdtr_cells": [
+    [
+      {
+        "isEditable": false,
+        "isValid": true,
+        "tableCellId": 0,
+        "originalText": "姓名",
+        "text": "",
+        "rowSpan": 1,
+        "colSpan": 1,
+        "originalAlign": "center",
+        "textAlign": "center"
+      },
+      {
+        "isEditable": true,
+        "isValid": true,
+        "tableCellId": 1,
+        "originalText": "",
+        "text": "代泽鹏",
+        "rowSpan": 1,
+        "colSpan": 2,
+        "originalAlign": "center",
+        "textAlign": "center"
+      },
+      {
+        "isValid": false,
+        "tableCellId": 1
+      },
+      {
+        "isEditable": false,
+        "isValid": true,
+        "tableCellId": 2,
+        "originalText": "性别",
+        "text": "",
+        "rowSpan": 1,
+        "colSpan": 1,
+        "originalAlign": "center",
+        "textAlign": "center"
+      },
+      {
+        "isEditable": true,
+        "isValid": true,
+        "tableCellId": 3,
+        "originalText": "",
+        "text": "男",
+        "rowSpan": 1,
+        "colSpan": 1,
+        "originalAlign": "center",
+        "textAlign": "center"
+      },
+      {
+        "isEditable": false,
+        "isValid": true,
+        "tableCellId": 4,
+        "originalText": "出生年月",
+        "text": "",
+        "rowSpan": 1,
+        "colSpan": 1,
+        "originalAlign": "center",
+        "textAlign": "center"
+      },
+      {
+        "isEditable": true,
+        "isValid": true,
+        "tableCellId": 5,
+        "originalText": "",
+        "text": "1999年5月",
+        "rowSpan": 1,
+        "colSpan": 1,
+        "originalAlign": "center",
+        "textAlign": "center"
+      },
+      {
+        "isEditable": false,
+        "isValid": true,
+        "tableCellId": 6,
+        "originalText": "民族",
+        "text": "",
+        "rowSpan": 1,
+        "colSpan": 1,
+        "originalAlign": "center",
+        "textAlign": "center"
+      },
+      {
+        "isEditable": true,
+        "isValid": true,
+        "tableCellId": 7,
+        "originalText": "",
+        "text": "汉",
+        "rowSpan": 1,
+        "colSpan": 1,
+        "originalAlign": "center",
+        "textAlign": "center"
+
+      }
+    ],
+    [
+      {
+        "isEditable": false,
+        "isValid": true,
+        "tableCellId": 8,
+        "originalText": "政治面貌",
+        "text": "",
+        "rowSpan": 1,
+        "colSpan": 1,
+        "originalAlign": "center",
+        "textAlign": "center"
+      },
+      {
+        "isEditable": true,
+        "isValid": true,
+        "tableCellId": 9,
+        "originalText": "",
+        "text": "群众",
+        "rowSpan": 1,
+        "colSpan": 2,
+        "originalAlign": "center",
+        "textAlign": "center"
+
+      },
+      {
+        "isValid": false,
+        "tableCellId": 9
+      },
+      {
+        "isEditable": false,
+        "isValid": true,
+        "tableCellId": 10,
+        "originalText": "在校担任社会工作",
+        "text": "",
+        "rowSpan": 1,
+        "colSpan": 1,
+        "originalAlign": "center",
+        "textAlign": "center"
+      },
+      {
+        "isEditable": true,
+        "isValid": true,
+        "tableCellId": 11,
+        "originalText": "",
+        "text": "班主任",
+        "rowSpan": 1,
+        "colSpan": 5,
+        "originalAlign": "center",
+        "textAlign": "center"
+
+      },
+      {
+        "isValid": false,
+        "tableCellId": 11
+      },
+      {
+        "isValid": false,
+        "tableCellId": 11
+      },
+      {
+        "isValid": false,
+        "tableCellId": 11
+      },
+      {
+        "isValid": false,
+        "tableCellId": 11
+      }
+    ],
+    [
+      {
+        "isEditable": false,
+        "isValid": true,
+        "tableCellId": 12,
+        "originalText": "入校以来受过何种奖励或处分",
+        "text": "",
+        "rowSpan": 1,
+        "colSpan": 2,
+        "originalAlign": "center",
+        "textAlign": "center"
+      },
+      {
+        "isValid": false,
+        "tableCellId": 12
+      },
+      {
+        "isEditable": true,
+        "isValid": true,
+        "tableCellId": 13,
+        "originalText": "",
+        "text": "2022年获得国西安高新区教师技能大赛一等奖\n2021年获得国西安高新区教师技能大赛一等奖\n2020年获得国西安高新区教师技能大赛一等奖",
+        "rowSpan": 1,
+        "colSpan": 7,
+        "originalAlign": "center",
+        "textAlign": "center"
+
+      },
+      {
+        "isValid": false,
+        "tableCellId": 13
+      },
+      {
+        "isValid": false,
+        "tableCellId": 13
+      },
+      {
+        "isValid": false,
+        "tableCellId": 13
+      },
+      {
+        "isValid": false,
+        "tableCellId": 13
+      },
+      {
+        "isValid": false,
+        "tableCellId": 13
+      },
+      {
+        "isValid": false,
+        "tableCellId": 13
+      }
+    ],
+    [
+      {
+        "isEditable": false,
+        "isValid": true,
+        "tableCellId": 14,
+        "originalText": "形式政策教育和品德教育课成绩",
+        "text": "",
+        "rowSpan": 2,
+        "colSpan": 2,
+        "originalAlign": "center",
+        "textAlign": "center"
+      },
+      {
+        "isValid": false,
+        "tableCellId": 14
+      },
+      {
+        "isEditable": false,
+        "isValid": true,
+        "tableCellId": 15,
+        "originalText": "课程名称",
+        "text": "",
+        "rowSpan": 1,
+        "colSpan": 1,
+        "originalAlign": "center",
+        "textAlign": "center"
+      },
+      {
+        "isEditable": true,
+        "isValid": true,
+        "tableCellId": 16,
+        "originalText": "",
+        "text": "政治",
+        "rowSpan": 1,
+        "colSpan": 1,
+        "originalAlign": "center",
+        "textAlign": "center"
+
+      },
+      {
+        "isEditable": true,
+        "isValid": true,
+        "tableCellId": 17,
+        "originalText": "",
+        "text": "文学",
+        "rowSpan": 1,
+        "colSpan": 1,
+        "originalAlign": "center",
+        "textAlign": "center"
+
+      },
+      {
+        "isEditable": true,
+        "isValid": true,
+        "tableCellId": 18,
+        "originalText": "",
+        "text": "英语",
+        "rowSpan": 1,
+        "colSpan": 1,
+        "originalAlign": "center",
+        "textAlign": "center"
+
+      },
+      {
+        "isEditable": true,
+        "isValid": true,
+        "tableCellId": 19,
+        "originalText": "",
+        "text": "数学",
+        "rowSpan": 1,
+        "colSpan": 1,
+        "originalAlign": "center",
+        "textAlign": "center"
+
+      },
+      {
+        "isEditable": true,
+        "isValid": true,
+        "tableCellId": 20,
+        "originalText": "",
+        "text": "教育学",
+        "rowSpan": 1,
+        "colSpan": 1,
+        "originalAlign": "center",
+        "textAlign": "center"
+
+      },
+      {
+        "isEditable": true,
+        "isValid": true,
+        "tableCellId": 21,
+        "originalText": "",
+        "text": "",
+        "rowSpan": 1,
+        "colSpan": 1,
+        "originalAlign": "center",
+        "textAlign": "center"
+      }
+    ],
+    [
+      {
+        "isValid": false,
+        "tableCellId": 14
+      },
+      {
+        "isValid": false,
+        "tableCellId": 14
+      },
+      {
+        "isEditable": false,
+        "isValid": true,
+        "tableCellId": 22,
+        "originalText": "成绩",
+        "text": "",
+        "rowSpan": 1,
+        "colSpan": 1,
+        "originalAlign": "center",
+        "textAlign": "center"
+      },
+      {
+        "isEditable": true,
+        "isValid": true,
+        "tableCellId": 23,
+        "originalText": "",
+        "text": "100",
+        "rowSpan": 1,
+        "colSpan": 1,
+        "originalAlign": "center",
+        "textAlign": "center"
+
+      },
+      {
+        "isEditable": true,
+        "isValid": true,
+        "tableCellId": 24,
+        "originalText": "",
+        "text": "10",
+        "rowSpan": 1,
+        "colSpan": 1,
+        "originalAlign": "center",
+        "textAlign": "center"
+
+      },
+      {
+        "isEditable": true,
+        "isValid": true,
+        "tableCellId": 25,
+        "originalText": "",
+        "text": "15",
+        "rowSpan": 1,
+        "colSpan": 1,
+        "originalAlign": "center",
+        "textAlign": "center"
+
+      },
+      {
+        "isEditable": true,
+        "isValid": true,
+        "tableCellId": 26,
+        "originalText": "",
+        "text": "100-0",
+        "rowSpan": 1,
+        "colSpan": 1,
+        "originalAlign": "center",
+        "textAlign": "center"
+
+      },
+      {
+        "isEditable": true,
+        "isValid": true,
+        "tableCellId": 27,
+        "originalText": "",
+        "text": "1",
+        "rowSpan": 1,
+        "colSpan": 1,
+        "originalAlign": "center",
+        "textAlign": "center"
+
+      },
+      {
+        "isEditable": true,
+        "isValid": true,
+        "tableCellId": 28,
+        "originalText": "",
+        "text": "",
+        "rowSpan": 1,
+        "colSpan": 1,
+        "originalAlign": "center",
+        "textAlign": "center"
+      }
+    ],
+    [
+      {
+        "isEditable": true,
+        "isValid": true,
+        "tableCellId": 29,
+        "originalText": "个人思想小结(要求书写工整，不少于800字)：",
+        "text": "    近期，我对于“坚持”这个词有了更深的理解。无论是学习一项新技能，还是完成一项看似困难的任务，过程中总会遇到挫折和想要放弃的时刻。\n过去我可能会轻易退缩，但现在我试着去看到那些微小的进步，去感受克服困难后的成就感。\n    虽然结果很重要，但更宝贵的是在坚持中磨练出的意志和解决问题的能力。\n    我意识到，真正的成长往往发生在舒适区之外。未来的日子里，我希望自己能带着这份新的体悟，更加勇敢地面对挑战，不轻易言弃，在点滴积累中实现目标，不断超越自我。",
+        "rowSpan": 1,
+        "colSpan": 9,
+        "originalAlign": "left",
+        "textAlign": "left top"
+
+      },
+      {
+        "isValid": false,
+        "tableCellId": 29
+      },
+      {
+        "isValid": false,
+        "tableCellId": 29
+      },
+      {
+        "isValid": false,
+        "tableCellId": 29
+      },
+      {
+        "isValid": false,
+        "tableCellId": 29
+      },
+      {
+        "isValid": false,
+        "tableCellId": 29
+      },
+      {
+        "isValid": false,
+        "tableCellId": 29
+      },
+      {
+        "isValid": false,
+        "tableCellId": 29
+      },
+      {
+        "isValid": false,
+        "tableCellId": 29
+      }
+    ]
+  ]
+}

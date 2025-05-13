@@ -1,0 +1,4 @@
+fastapi>=0.95.0,<0.111.0  # FastAPI 框架核心
+uvicorn[standard]>=0.20.0,<0.26.0 # ASGI 服务器, [standard] 包含常用依赖如 websockets, httptools, python-multipart (用于文件上传)
+aiofiles>=0.8.0,<24.0.0 # 异步文件操作库
+python-multipart>=0.0.5,<0.0.7 # FastAPI 处理表单数据（包括文件上传）需要
